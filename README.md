@@ -4,7 +4,7 @@ Here is our project for the course of Bayesian Statistics of third year at ENSAE
 
 In this GitHub, you have the main (and only) file to open : Code final.ipynb containing our work. 
 
-## How it is organised ?
+## How is it organised ?
 
 In the first cells, we define the useful functions for our project, that is to say the log-likelihood of our posterior, the program to run the maximization, and additionnal functions. 
 
